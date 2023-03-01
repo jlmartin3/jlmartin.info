@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on James Martin</title>
+    <link>https://jlm3.com/</link>
+    <description>Recent content in Home on James Martin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://jlm3.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bayesian profile regression to study the ecologic associations of correlated environmental exposures with excess mortality risk during the first year of the Covid-19 epidemic in lombardy, Italy</title>
+      <link>https://jlm3.com/publications/covid/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlm3.com/publications/covid/</guid>
+      <description>We used a semi-parametric Bayesian modeling framework to characterize social and environmental covariates to COVID-19 related mortality in the Lombardy region of Italy. Bayesian profile regression creates clusters similar to unsupervised machine learning methods while also enabling statistical inference. We identified complex relationships between environmental pollutants and demographics suggesting that policy proposals must be holistic and spatially specific in order to substantially reduce COVID-19 mortality. As co-author my role involved compiling environmental data, modeling ambient pollution, and validating model output.</description>
+    </item>
+    
+    <item>
+      <title>The Big Picture: The Role of Mapping in Retail Crime Analysis and Risk Estimation</title>
+      <link>https://jlm3.com/publications/impact22/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlm3.com/publications/impact22/</guid>
+      <description>For many years Geographic Information Systems (GIS) have been used within retail make vital decisions from selecting sites for new stores to planning transportation routes to optimize supply chains. GIS is now being applied to the aims of loss prevention. In this presentation at the LPRC’s 2022 IMPACT conference, I introduced GIS and its applications to LP managers and practitioners by demonstrating how spatial statistics can enhance investigations and assist retailers in selecting locations for enhanced protection following multiple victimization events.</description>
+    </item>
+    
+    <item>
+      <title>Household and climate factors influence Aedes aegypti presence in the arid city of Huaquillas, Ecuador</title>
+      <link>https://jlm3.com/publications/aedes/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlm3.com/publications/aedes/</guid>
+      <description>The Aedes aegyptimosquito is a vector for Dengue fever, Chickgunya, and other viral diseases which are now endemic in Ecuador. This species thrives in high density urban environments and is highly adaptable. To understand the social and ecological factors that bring together humans and mosquitoes, we conducted a survey of households in Huaquillas regarding demographics, living conditions, and prevention strategies. Mosquitos were also collected from these households periodically using backpack aspirators.</description>
+    </item>
+    
+    <item>
+      <title>A time series analysis of the ecologic relationship between acute and intermediate PM2.5 exposure duration on neonatal intensive care unit admissions in Florida</title>
+      <link>https://jlm3.com/publications/neonates/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlm3.com/publications/neonates/</guid>
+      <description>We paired over one million birth records in the state of Florida with daily air pollution estimations and other demographic data to explore the influence of air pollution on neonatal intensive care unit (NICU) admissions from 2012 to 2019 at the zip code level. Elevated air pollution was associated with an increase in admissions when accounting for confounding factors. As co-author my role involved acquiring and processing environmental data and estimating air quality using multiple geo-statistical methods.</description>
+    </item>
+    
+    <item>
+      <title>UF MathGeo Model: A Mechanistic Approach Using Vector Traits and Georeferenced Climate Data</title>
+      <link>https://jlm3.com/publications/mathgeo/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlm3.com/publications/mathgeo/</guid>
+      <description>This mechanistic model was made for a competition held by the CDC’s Epidemic Prediction Initiative to forecast the probability of detecting two species of disease transmitting mosquito in a number of counties a month in advance. Our model combined data from laboratory studies on the effects of temperature on life traits as well as weather forecasts to predict presence. Our predictions were then validated against actual catch data from mosquito control agencies in participating counties.</description>
+    </item>
+    
+    <item>
+      <title>Crime Risk by ZIP Code</title>
+      <link>https://jlm3.com/projects/creations/zip/</link>
+      <pubDate>Sat, 12 Nov 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://jlm3.com/projects/creations/zip/</guid>
+      <description>Ziprisk is a simple web app that allows users to easily view socio-demographic factors that correlate to crime risk at the ZIP code level. The data is taken from the 2021 American Community Survey conducted by the U.S. Census Bureau which is publicly available using the census API. On the back end this is a Python Flask application using SQLAlchemy for data retrieval.</description>
+    </item>
+    
+    <item>
+      <title>LPRC Safer Communities Dashboard</title>
+      <link>https://jlm3.com/projects/creations/gpd/</link>
+      <pubDate>Sat, 12 Nov 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://jlm3.com/projects/creations/gpd/</guid>
+      <description>In collaboration with the Gainesville Police Department (GPD) and Ersi inc., the Loss Prevention Research Council (LPRC) created an up-to-date crime incident map for the city to launch the SaferCommunities research initiative. Calls for service data are piped into ArcGIS online and visualized as a heat map along with LPRC StoreLab locations and field assets.</description>
+    </item>
+    
+    <item>
+      <title>LPRC Organized Retail Crime Survey</title>
+      <link>https://jlm3.com/projects/creations/orc/</link>
+      <pubDate>Wed, 11 May 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://jlm3.com/projects/creations/orc/</guid>
+      <description>The Loss Prevention Research Council (LPRC), Loss Prevention Foundation (LPF), and Loss Prevention Magazine (LPM) conducted an industry-wide survey of investigators and multi-store loss prevention managers to understand the causes, consequences, and control of Organized Retail Crime (ORC) across the United States. My role was to assist in summarizing and communicating the results using a Tableau dashboard.</description>
+    </item>
+    
+    <item>
+      <title>Inverse Distance Weighting</title>
+      <link>https://jlm3.com/projects/creations/idw/</link>
+      <pubDate>Tue, 11 Feb 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://jlm3.com/projects/creations/idw/</guid>
+      <description>A common geostatstical technique used to interpolate values across a study area based on a number of explicit sample locations. I had trouble finding a package that implemented this technique in a simple way which proved to be a problem when using IDW to interpolate air pollution concentrations at millions of locations. To make it computationally feasible I coded IDW and an accuracy metric as c++ functions and included them in a package.</description>
+    </item>
+    
+    <item>
+      <title>Health Accessibility Models</title>
+      <link>https://jlm3.com/projects/creations/access/</link>
+      <pubDate>Wed, 11 Dec 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://jlm3.com/projects/creations/access/</guid>
+      <description>Health accessibility models have been used to identify regions that are medically under-served due to their population and distance from medical facilities. I used these models to identify neighborhoods in the city of Huaquillas that may lack access to vector control services. I also simulate how different placements of workers and resources could improve access and identify locations to optimally place a new facility.</description>
+    </item>
+    
+    <item>
+      <title>UFMathGeo</title>
+      <link>https://jlm3.com/projects/creations/ufmethgeo/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://jlm3.com/projects/creations/ufmethgeo/</guid>
+      <description>UFMathGeo is a mechanistic model used to estimate the probability of finding two species of disease transmitting mosquito for a given month in a number of counties in the US. For archival purposes the code available on github.</description>
+    </item>
+    
+    <item>
+      <title>Spatial Networks</title>
+      <link>https://jlm3.com/projects/creations/network/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://jlm3.com/projects/creations/network/</guid>
+      <description>There are many powerful R packages that allow users to perform network analyses. However there currently isn’t the built-in functionality to use these analyses on spatial datasets. To study a road network for example, you need to convert the shapefile GIS format into an object that is accepted by a package like ‘igraph’. I provide an example on how to perform these conversions and use network analysis to find the shortest route between two locations in the road network.</description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>https://jlm3.com/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://jlm3.com/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+ First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://jlm3.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlm3.com/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>

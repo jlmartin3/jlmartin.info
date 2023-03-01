@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on James Martin</title>
+    <link>https://jlm3.com/projects/creations/</link>
+    <description>Recent content in Projects on James Martin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Nov 2022 12:41:05 -0500</lastBuildDate><atom:link href="https://jlm3.com/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crime Risk by ZIP Code</title>
+      <link>https://jlm3.com/projects/creations/zip/</link>
+      <pubDate>Sat, 12 Nov 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://jlm3.com/projects/creations/zip/</guid>
+      <description>Ziprisk is a simple web app that allows users to easily view socio-demographic factors that correlate to crime risk at the ZIP code level. The data is taken from the 2021 American Community Survey conducted by the U.S. Census Bureau which is publicly available using the census API. On the back end this is a Python Flask application using SQLAlchemy for data retrieval.</description>
+    </item>
+    
+    <item>
+      <title>LPRC Safer Communities Dashboard</title>
+      <link>https://jlm3.com/projects/creations/gpd/</link>
+      <pubDate>Sat, 12 Nov 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://jlm3.com/projects/creations/gpd/</guid>
+      <description>In collaboration with the Gainesville Police Department (GPD) and Ersi inc., the Loss Prevention Research Council (LPRC) created an up-to-date crime incident map for the city to launch the SaferCommunities research initiative. Calls for service data are piped into ArcGIS online and visualized as a heat map along with LPRC StoreLab locations and field assets.</description>
+    </item>
+    
+    <item>
+      <title>LPRC Organized Retail Crime Survey</title>
+      <link>https://jlm3.com/projects/creations/orc/</link>
+      <pubDate>Wed, 11 May 2022 12:41:05 -0500</pubDate>
+      
+      <guid>https://jlm3.com/projects/creations/orc/</guid>
+      <description>The Loss Prevention Research Council (LPRC), Loss Prevention Foundation (LPF), and Loss Prevention Magazine (LPM) conducted an industry-wide survey of investigators and multi-store loss prevention managers to understand the causes, consequences, and control of Organized Retail Crime (ORC) across the United States. My role was to assist in summarizing and communicating the results using a Tableau dashboard.</description>
+    </item>
+    
+    <item>
+      <title>Inverse Distance Weighting</title>
+      <link>https://jlm3.com/projects/creations/idw/</link>
+      <pubDate>Tue, 11 Feb 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://jlm3.com/projects/creations/idw/</guid>
+      <description>A common geostatstical technique used to interpolate values across a study area based on a number of explicit sample locations. I had trouble finding a package that implemented this technique in a simple way which proved to be a problem when using IDW to interpolate air pollution concentrations at millions of locations. To make it computationally feasible I coded IDW and an accuracy metric as c++ functions and included them in a package.</description>
+    </item>
+    
+    <item>
+      <title>Health Accessibility Models</title>
+      <link>https://jlm3.com/projects/creations/access/</link>
+      <pubDate>Wed, 11 Dec 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://jlm3.com/projects/creations/access/</guid>
+      <description>Health accessibility models have been used to identify regions that are medically under-served due to their population and distance from medical facilities. I used these models to identify neighborhoods in the city of Huaquillas that may lack access to vector control services. I also simulate how different placements of workers and resources could improve access and identify locations to optimally place a new facility.</description>
+    </item>
+    
+    <item>
+      <title>UFMathGeo</title>
+      <link>https://jlm3.com/projects/creations/ufmethgeo/</link>
+      <pubDate>Fri, 11 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://jlm3.com/projects/creations/ufmethgeo/</guid>
+      <description>UFMathGeo is a mechanistic model used to estimate the probability of finding two species of disease transmitting mosquito for a given month in a number of counties in the US. For archival purposes the code available on github.</description>
+    </item>
+    
+    <item>
+      <title>Spatial Networks</title>
+      <link>https://jlm3.com/projects/creations/network/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://jlm3.com/projects/creations/network/</guid>
+      <description>There are many powerful R packages that allow users to perform network analyses. However there currently isn’t the built-in functionality to use these analyses on spatial datasets. To study a road network for example, you need to convert the shapefile GIS format into an object that is accepted by a package like ‘igraph’. I provide an example on how to perform these conversions and use network analysis to find the shortest route between two locations in the road network.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on James Martin</title>
+    <link>https://jlm3.com/publications/</link>
+    <description>Recent content in Publications on James Martin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://jlm3.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bayesian profile regression to study the ecologic associations of correlated environmental exposures with excess mortality risk during the first year of the Covid-19 epidemic in lombardy, Italy</title>
+      <link>https://jlm3.com/publications/covid/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlm3.com/publications/covid/</guid>
+      <description>We used a semi-parametric Bayesian modeling framework to characterize social and environmental covariates to COVID-19 related mortality in the Lombardy region of Italy. Bayesian profile regression creates clusters similar to unsupervised machine learning methods while also enabling statistical inference. We identified complex relationships between environmental pollutants and demographics suggesting that policy proposals must be holistic and spatially specific in order to substantially reduce COVID-19 mortality. As co-author my role involved compiling environmental data, modeling ambient pollution, and validating model output.</description>
+    </item>
+    
+    <item>
+      <title>The Big Picture: The Role of Mapping in Retail Crime Analysis and Risk Estimation</title>
+      <link>https://jlm3.com/publications/impact22/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlm3.com/publications/impact22/</guid>
+      <description>For many years Geographic Information Systems (GIS) have been used within retail make vital decisions from selecting sites for new stores to planning transportation routes to optimize supply chains. GIS is now being applied to the aims of loss prevention. In this presentation at the LPRC’s 2022 IMPACT conference, I introduced GIS and its applications to LP managers and practitioners by demonstrating how spatial statistics can enhance investigations and assist retailers in selecting locations for enhanced protection following multiple victimization events.</description>
+    </item>
+    
+    <item>
+      <title>Household and climate factors influence Aedes aegypti presence in the arid city of Huaquillas, Ecuador</title>
+      <link>https://jlm3.com/publications/aedes/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlm3.com/publications/aedes/</guid>
+      <description>The Aedes aegyptimosquito is a vector for Dengue fever, Chickgunya, and other viral diseases which are now endemic in Ecuador. This species thrives in high density urban environments and is highly adaptable. To understand the social and ecological factors that bring together humans and mosquitoes, we conducted a survey of households in Huaquillas regarding demographics, living conditions, and prevention strategies. Mosquitos were also collected from these households periodically using backpack aspirators.</description>
+    </item>
+    
+    <item>
+      <title>A time series analysis of the ecologic relationship between acute and intermediate PM2.5 exposure duration on neonatal intensive care unit admissions in Florida</title>
+      <link>https://jlm3.com/publications/neonates/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlm3.com/publications/neonates/</guid>
+      <description>We paired over one million birth records in the state of Florida with daily air pollution estimations and other demographic data to explore the influence of air pollution on neonatal intensive care unit (NICU) admissions from 2012 to 2019 at the zip code level. Elevated air pollution was associated with an increase in admissions when accounting for confounding factors. As co-author my role involved acquiring and processing environmental data and estimating air quality using multiple geo-statistical methods.</description>
+    </item>
+    
+    <item>
+      <title>UF MathGeo Model: A Mechanistic Approach Using Vector Traits and Georeferenced Climate Data</title>
+      <link>https://jlm3.com/publications/mathgeo/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jlm3.com/publications/mathgeo/</guid>
+      <description>This mechanistic model was made for a competition held by the CDC’s Epidemic Prediction Initiative to forecast the probability of detecting two species of disease transmitting mosquito in a number of counties a month in advance. Our model combined data from laboratory studies on the effects of temperature on life traits as well as weather forecasts to predict presence. Our predictions were then validated against actual catch data from mosquito control agencies in participating counties.</description>
+    </item>
+    
+  </channel>
+</rss>

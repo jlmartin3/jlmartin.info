@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on James Martin</title>
+    <link>https://jlm3.com/projects/</link>
+    <description>Recent content in Projects on James Martin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Nov 2022 12:41:05 -0500</lastBuildDate><atom:link href="https://jlm3.com/projects/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
